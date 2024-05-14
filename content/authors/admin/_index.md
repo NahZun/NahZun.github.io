@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Nahzun Zarin Nawar
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nahzun Zarin
+last_name: Nawar
 
 # Status emoji
 status:
@@ -17,43 +17,42 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MA in Peace and Conflict Studies
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Otto-von-Guricke University Magdeburg
+    url: https://www.ovgu.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 🌍 Development practitioner bridging finance and peacebuilding. 🌱 Passionate about social justice, community empowerment, and leading strategic initiatives for positive change.
+
+ 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sustainable Development
+  - Community Empowerment
+  - Research and Analysis
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Peace and Conflict Studies
+      institution: Otto-von-Guricke University Magdeburg
+      year: 2024
+    - course: Bachelors in Business Administration
+      institution: North South University
+      year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Microsoft Office 
         description: ''
-        percent: 80
+        percent: 95
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -100,12 +99,6 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
